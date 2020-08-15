@@ -8,17 +8,22 @@
   },
   {
     "item": {
-      "value": "Q750345",
-      "label": "Gerald Kaufman"
+      "value": "Q333916",
+      "label": "Alfred Robens, Baron Robens of Woldingham"
     },
-    "statement": "Q750345$699258E7-851B-407E-A8CE-426515AF0678"
-  },
-  {
-    "item": {
-      "value": "Q7176922",
-      "label": "Peter Shore"
+    "replacedBy": {
+      "value": "Q325403",
+      "label": "Aneurin Bevan"
     },
-    "statement": "Q7176922$6807D899-7AD9-4A32-8CA2-F3E0234F4288"
+    "start": {
+      "value": "1955-12-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1956-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333916$6537CED1-7952-4324-93B8-8515F15032A6"
   },
   {
     "item": {
@@ -42,6 +47,29 @@
       "precision": "11"
     },
     "statement": "Q325403$1D3E6868-18AE-4631-A2A2-09B94370D351"
+  },
+  {
+    "item": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replaces": {
+      "value": "Q325403",
+      "label": "Aneurin Bevan"
+    },
+    "replacedBy": {
+      "value": "Q128956",
+      "label": "Harold Wilson"
+    },
+    "start": {
+      "value": "1959-10-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1961-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332360$CD0705C0-AE00-4B01-A0DE-AF58CC7652F2"
   },
   {
     "item": {
@@ -114,6 +142,29 @@
   },
   {
     "item": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "replaces": {
+      "value": "Q182035",
+      "label": "Rab Butler"
+    },
+    "replacedBy": {
+      "value": "Q336050",
+      "label": "Christopher Soames"
+    },
+    "start": {
+      "value": "1965-02-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1965-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333275$1B285251-2055-4F06-A8CF-E6E1CEF089BF"
+  },
+  {
+    "item": {
       "value": "Q336050",
       "label": "Christopher Soames"
     },
@@ -134,6 +185,52 @@
       "precision": "11"
     },
     "statement": "Q336050$B10F628D-DCB4-4E69-A97A-79EAC4CF6019"
+  },
+  {
+    "item": {
+      "value": "Q128976",
+      "label": "Alec Douglas-Home"
+    },
+    "replaces": {
+      "value": "Q336050",
+      "label": "Christopher Soames"
+    },
+    "replacedBy": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "start": {
+      "value": "1966-04-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1970-06-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q128976$09DE9AA2-7960-45B2-BC53-847B308297B4"
+  },
+  {
+    "item": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replaces": {
+      "value": "Q128976",
+      "label": "Alec Douglas-Home"
+    },
+    "replacedBy": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "start": {
+      "value": "1970-06-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1972-04-19T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332360$DF756C0B-1C4B-476B-958D-2CC9AD60E5CE"
   },
   {
     "item": {
@@ -160,6 +257,29 @@
   },
   {
     "item": {
+      "value": "Q5534874",
+      "label": "Geoffrey Rippon"
+    },
+    "replaces": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "replacedBy": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "start": {
+      "value": "1974-03-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1975-02-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q5534874$8327E53B-4C87-4431-A26D-1B77484A0ACC"
+  },
+  {
+    "item": {
       "value": "Q333275",
       "label": "Reginald Maudling"
     },
@@ -180,6 +300,29 @@
       "precision": "11"
     },
     "statement": "Q333275$4525A401-94EC-498E-A333-B5F6023246C9"
+  },
+  {
+    "item": {
+      "value": "Q6228742",
+      "label": "John Davies"
+    },
+    "replaces": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "replacedBy": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "start": {
+      "value": "1976-04-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1978-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q6228742$6C0BAC70-F022-4CCF-8D6B-96D14856F118"
   },
   {
     "item": {
@@ -229,6 +372,75 @@
   },
   {
     "item": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "replaces": {
+      "value": "Q333085",
+      "label": "David Owen"
+    },
+    "replacedBy": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "start": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q7176922$6807D899-7AD9-4A32-8CA2-F3E0234F4288"
+  },
+  {
+    "item": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replaces": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "replacedBy": {
+      "value": "Q750345",
+      "label": "Gerald Kaufman"
+    },
+    "start": {
+      "value": "1980-12-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1987-06-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332360$1627E2A5-B5D9-402C-9C91-6130C22C567A"
+  },
+  {
+    "item": {
+      "value": "Q750345",
+      "label": "Gerald Kaufman"
+    },
+    "replaces": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replacedBy": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "start": {
+      "value": "1987-06-13T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1992-07-24T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q750345$699258E7-851B-407E-A8CE-426515AF0678"
+  },
+  {
+    "item": {
       "value": "Q336214",
       "label": "Jack Cunningham, Baron Cunningham of Felling"
     },
@@ -254,6 +466,14 @@
     "item": {
       "value": "Q311214",
       "label": "Robin Cook"
+    },
+    "replaces": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "replacedBy": {
+      "value": "Q9559",
+      "label": "John Major"
     },
     "start": {
       "value": "1994-10-20T00:00:00Z",
@@ -428,6 +648,29 @@
   },
   {
     "item": {
+      "value": "Q272670",
+      "label": "David Miliband"
+    },
+    "replaces": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "replacedBy": {
+      "value": "Q291057",
+      "label": "Yvette Cooper"
+    },
+    "start": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272670$A73D059C-B2DD-4F28-9FBD-BB2EE81BE8E5"
+  },
+  {
+    "item": {
       "value": "Q291057",
       "label": "Yvette Cooper"
     },
@@ -504,10 +747,33 @@
       "value": "Q262742",
       "label": "Hilary Benn"
     },
+    "replacedBy": {
+      "value": "Q578037",
+      "label": "Lisa Nandy"
+    },
     "start": {
       "value": "2016-06-27T00:00:00Z",
       "precision": "11"
     },
+    "end": {
+      "value": "2020-04-05T00:00:00Z",
+      "precision": "11"
+    },
     "statement": "Q272408$ac75d073-4b51-6ea4-273a-3e878d19dd0f"
+  },
+  {
+    "item": {
+      "value": "Q578037",
+      "label": "Lisa Nandy"
+    },
+    "replaces": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "start": {
+      "value": "2020-04-05T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q578037$757FB18F-C9D0-4527-B158-A23E8E9EA508"
   }
 ]
