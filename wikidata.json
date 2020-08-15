@@ -1,0 +1,513 @@
+[
+  {
+    "item": {
+      "value": "Q581095",
+      "label": "Kerry McCarthy"
+    },
+    "statement": "Q581095$DC6BB651-B773-4736-A852-CC1263DCA441"
+  },
+  {
+    "item": {
+      "value": "Q750345",
+      "label": "Gerald Kaufman"
+    },
+    "statement": "Q750345$699258E7-851B-407E-A8CE-426515AF0678"
+  },
+  {
+    "item": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "statement": "Q7176922$6807D899-7AD9-4A32-8CA2-F3E0234F4288"
+  },
+  {
+    "item": {
+      "value": "Q325403",
+      "label": "Aneurin Bevan"
+    },
+    "replaces": {
+      "value": "Q333916",
+      "label": "Alfred Robens, Baron Robens of Woldingham"
+    },
+    "replacedBy": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "start": {
+      "value": "1956-07-22T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1959-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q325403$1D3E6868-18AE-4631-A2A2-09B94370D351"
+  },
+  {
+    "item": {
+      "value": "Q128956",
+      "label": "Harold Wilson"
+    },
+    "replaces": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replacedBy": {
+      "value": "Q333745",
+      "label": "Patrick Gordon Walker"
+    },
+    "start": {
+      "value": "1961-11-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1963-02-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q128956$6CEF5DF6-19C0-457F-B4FD-BBFBB836D8EA"
+  },
+  {
+    "item": {
+      "value": "Q333745",
+      "label": "Patrick Gordon Walker"
+    },
+    "replaces": {
+      "value": "Q128956",
+      "label": "Harold Wilson"
+    },
+    "replacedBy": {
+      "value": "Q182035",
+      "label": "Rab Butler"
+    },
+    "start": {
+      "value": "1963-02-14T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1964-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333745$8D6641AE-58C7-405E-92C5-CFF300CCA293"
+  },
+  {
+    "item": {
+      "value": "Q182035",
+      "label": "Rab Butler"
+    },
+    "replaces": {
+      "value": "Q333745",
+      "label": "Patrick Gordon Walker"
+    },
+    "replacedBy": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "start": {
+      "value": "1964-10-16T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1965-07-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q182035$27A5EC51-BBF9-4EEE-9DD6-FEE54001C75A"
+  },
+  {
+    "item": {
+      "value": "Q336050",
+      "label": "Christopher Soames"
+    },
+    "replaces": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "replacedBy": {
+      "value": "Q128976",
+      "label": "Alec Douglas-Home"
+    },
+    "start": {
+      "value": "1965-11-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1966-04-13T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q336050$B10F628D-DCB4-4E69-A97A-79EAC4CF6019"
+  },
+  {
+    "item": {
+      "value": "Q9576",
+      "label": "James Callaghan"
+    },
+    "replaces": {
+      "value": "Q332360",
+      "label": "Denis Healey"
+    },
+    "replacedBy": {
+      "value": "Q5534874",
+      "label": "Geoffrey Rippon"
+    },
+    "start": {
+      "value": "1972-04-19T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1974-02-28T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q9576$E7A6E91D-948A-4214-84DA-1238A9142C52"
+  },
+  {
+    "item": {
+      "value": "Q333275",
+      "label": "Reginald Maudling"
+    },
+    "replaces": {
+      "value": "Q5534874",
+      "label": "Geoffrey Rippon"
+    },
+    "replacedBy": {
+      "value": "Q6228742",
+      "label": "John Davies"
+    },
+    "start": {
+      "value": "1975-02-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1976-04-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333275$4525A401-94EC-498E-A333-B5F6023246C9"
+  },
+  {
+    "item": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "replaces": {
+      "value": "Q6228742",
+      "label": "John Davies"
+    },
+    "replacedBy": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "start": {
+      "value": "1978-11-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332759$7E1E1600-D21E-4660-849D-D79645776A1D"
+  },
+  {
+    "item": {
+      "value": "Q333085",
+      "label": "David Owen"
+    },
+    "replaces": {
+      "value": "Q332759",
+      "label": "Francis Pym, Baron Pym"
+    },
+    "replacedBy": {
+      "value": "Q7176922",
+      "label": "Peter Shore"
+    },
+    "start": {
+      "value": "1979-05-04T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1979-07-14T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333085$76E4B6E9-C49E-4582-BE2C-6C8E096584A1"
+  },
+  {
+    "item": {
+      "value": "Q336214",
+      "label": "Jack Cunningham, Baron Cunningham of Felling"
+    },
+    "replaces": {
+      "value": "Q750345",
+      "label": "Gerald Kaufman"
+    },
+    "replacedBy": {
+      "value": "Q311214",
+      "label": "Robin Cook"
+    },
+    "start": {
+      "value": "1992-07-24T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q336214$52EE59EE-C586-49C5-95A1-5862D91A9D60"
+  },
+  {
+    "item": {
+      "value": "Q311214",
+      "label": "Robin Cook"
+    },
+    "start": {
+      "value": "1994-10-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-05-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q311214$223C8C43-CE7A-46B3-B9C7-3BB7FF49B97C"
+  },
+  {
+    "item": {
+      "value": "Q9559",
+      "label": "John Major"
+    },
+    "replaces": {
+      "value": "Q311214",
+      "label": "Robin Cook"
+    },
+    "replacedBy": {
+      "value": "Q325381",
+      "label": "Michael Howard"
+    },
+    "start": {
+      "value": "1997-05-07T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1997-06-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q9559$D5AF5EAD-BB7E-4BA0-991B-F9877E6C0971"
+  },
+  {
+    "item": {
+      "value": "Q325381",
+      "label": "Michael Howard"
+    },
+    "replaces": {
+      "value": "Q9559",
+      "label": "John Major"
+    },
+    "replacedBy": {
+      "value": "Q333007",
+      "label": "John Maples, Baron Maples"
+    },
+    "start": {
+      "value": "1997-06-12T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q325381$CD3869CF-D811-4C92-94C0-26288FC53895"
+  },
+  {
+    "item": {
+      "value": "Q333007",
+      "label": "John Maples, Baron Maples"
+    },
+    "replaces": {
+      "value": "Q325381",
+      "label": "Michael Howard"
+    },
+    "replacedBy": {
+      "value": "Q333986",
+      "label": "Francis Maude"
+    },
+    "start": {
+      "value": "1999-06-15T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2000-02-02T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333007$DBB4AFC5-3980-48B6-A9C0-C15ADAD20DB6"
+  },
+  {
+    "item": {
+      "value": "Q333986",
+      "label": "Francis Maude"
+    },
+    "replaces": {
+      "value": "Q333007",
+      "label": "John Maples, Baron Maples"
+    },
+    "replacedBy": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "start": {
+      "value": "2000-02-02T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q333986$A1CC43E6-48EF-4498-A038-9644BF510F13"
+  },
+  {
+    "item": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "replaces": {
+      "value": "Q333986",
+      "label": "Francis Maude"
+    },
+    "replacedBy": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "start": {
+      "value": "2001-09-18T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332962$8ECC5CF3-5063-4ED6-AE06-066BE6981CA4"
+  },
+  {
+    "item": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "replaces": {
+      "value": "Q332962",
+      "label": "Michael Ancram"
+    },
+    "replacedBy": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "start": {
+      "value": "2005-05-10T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q332374$2FD3435C-A3F6-4304-BEFF-9C83DC35846E"
+  },
+  {
+    "item": {
+      "value": "Q58282",
+      "label": "William Hague"
+    },
+    "replaces": {
+      "value": "Q332374",
+      "label": "Liam Fox"
+    },
+    "replacedBy": {
+      "value": "Q216594",
+      "label": "Ed Miliband"
+    },
+    "start": {
+      "value": "2005-12-06T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2010-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q58282$21E5184E-3017-4496-8181-54E602CDE64A"
+  },
+  {
+    "item": {
+      "value": "Q291057",
+      "label": "Yvette Cooper"
+    },
+    "replaces": {
+      "value": "Q272670",
+      "label": "David Miliband"
+    },
+    "replacedBy": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "start": {
+      "value": "2010-10-08T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2011-01-20T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q291057$F622E0C9-1B01-490E-B872-F6893E584C50"
+  },
+  {
+    "item": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "replaces": {
+      "value": "Q291057",
+      "label": "Yvette Cooper"
+    },
+    "replacedBy": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "start": {
+      "value": "2011-01-20T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2015-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q259106$3F164293-05D6-4686-9767-694F17B02841"
+  },
+  {
+    "item": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "replaces": {
+      "value": "Q259106",
+      "label": "Douglas Alexander"
+    },
+    "replacedBy": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "start": {
+      "value": "2015-05-11T00:00:00Z",
+      "precision": "11"
+    },
+    "end": {
+      "value": "2016-06-26T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q262742$E7B5D000-0009-4446-87FA-4C49471CD79C"
+  },
+  {
+    "item": {
+      "value": "Q272408",
+      "label": "Emily Thornberry"
+    },
+    "replaces": {
+      "value": "Q262742",
+      "label": "Hilary Benn"
+    },
+    "start": {
+      "value": "2016-06-27T00:00:00Z",
+      "precision": "11"
+    },
+    "statement": "Q272408$ac75d073-4b51-6ea4-273a-3e878d19dd0f"
+  }
+]
